@@ -1,0 +1,1 @@
+This is a custom Stroop Test designed with PsychoPy for the purposes of research at Salem State University.
